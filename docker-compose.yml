@@ -1,0 +1,21 @@
+version: "3.1"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    tty: true
+    environment:
+      GITHUB_PERSONAL_TOKEN_FILE: /run/secrets/github_personal_token
+    volumes:
+      - ./:/opt/politieke-reclame
+    networks:
+      - internal
+    restart: unless-stopped
+    secrets:
+      - github_personal_token
+networks:
+  internal:
+secrets:
+  github_personal_token:
+    file: github_personal_token.txt

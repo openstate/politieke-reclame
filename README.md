@@ -1,0 +1,3 @@
+- Clone this repo
+- Create a GitHub Personal Token for just this repo with the 'content' permission and add it to `github_personal_token.txt`
+- `docker-compose up -d`
