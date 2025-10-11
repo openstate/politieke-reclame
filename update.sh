@@ -6,4 +6,5 @@ cd /opt/politieke-reclame
 git config --global user.email "developers@openstate.eu"
 git config --global user.name "Open State developers"
 git config --global --add safe.directory /opt/politieke-reclame
-git commit items/ -m 'Statements changed' && git push -q https://`cat $GITHUB_PERSONAL_TOKEN_FILE`@github.com/openstate/politieke-reclame.git main
+git add items/
+git commit -m 'Statements changed' && git push -q https://`cat $GITHUB_PERSONAL_TOKEN_FILE`@github.com/openstate/politieke-reclame.git main
