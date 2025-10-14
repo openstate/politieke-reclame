@@ -43,5 +43,7 @@
   "akkoord_transparantieverklaring_toestemming": true,
   "akkoord_identiteit_opdrachtgever": true,
   "akkoord_politieke_reclamedienst": true,
-  "methode_waardebepaling_voordelen_natura": "Standaard charitatieve korting"
+  "methode_waardebepaling_voordelen_natura": "Standaard charitatieve korting",
+  "ingezette_media": null,
+  "reclame_boodschap": null
 }
