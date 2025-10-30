@@ -2,10 +2,15 @@
   "id": "2be35ebc-9a0e-4987-a5de-594ce0723ef5",
   "name": "HVM GR26",
   "public_id": "ujvz9f",
-  "theme": "Gemeenteraadsverkiezingen 2026",
   "date_created": "2025-10-23T12:00:36.000Z",
   "date_updated": "2025-10-23T12:00:41.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 10,
+    "label": "Gemeenteraadsverkiezingen 2026",
+    "status": "published",
+    "date": "2026-03-18T12:00:00"
+  },
   "organization_created": {
     "id": "973d80d9-73f2-4063-a30e-b9f0492323d6",
     "name": "Hart voor Medemblik"

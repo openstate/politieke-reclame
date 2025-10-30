@@ -2,10 +2,15 @@
   "id": "f2870fff-5654-465b-8031-40d4d80b9385",
   "name": "Open vragen aan progressief Nederland",
   "public_id": "f70ykg",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-25T13:16:40.000Z",
   "date_updated": "2025-10-25T13:16:53.000Z",
   "versions_count": 4,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "e1f80a7a-f54d-4e8b-8ea7-c63f24d6e8ec",
     "name": "Edwin van Leeuwen"

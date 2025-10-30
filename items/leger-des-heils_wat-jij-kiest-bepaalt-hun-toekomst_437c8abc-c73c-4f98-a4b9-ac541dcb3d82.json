@@ -2,10 +2,15 @@
   "id": "437c8abc-c73c-4f98-a4b9-ac541dcb3d82",
   "name": "Wat jij kiest, bepaalt hun toekomst",
   "public_id": "x55o1p",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-10T13:45:02.000Z",
   "date_updated": "2025-10-10T13:45:06.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "92dd7349-1b5d-418a-accd-10e96b6fcd3c",
     "name": "Leger des Heils"

@@ -2,10 +2,15 @@
   "id": "b59061b5-30db-4d0f-b77e-7ea6f3f9b520",
   "name": "Vrouwen, blijf thuis!",
   "public_id": "fodwtp",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-24T05:06:50.000Z",
   "date_updated": "2025-10-24T16:30:52.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "8f4e2150-161c-4107-af4a-dc358b9a7d4e",
     "name": "In het Spoor"

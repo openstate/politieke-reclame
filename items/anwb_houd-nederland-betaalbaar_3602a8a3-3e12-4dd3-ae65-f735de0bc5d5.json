@@ -2,10 +2,15 @@
   "id": "3602a8a3-3e12-4dd3-ae65-f735de0bc5d5",
   "name": "Houd Nederland Betaalbaar",
   "public_id": "bf0jbl",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-14T14:47:06.000Z",
   "date_updated": "2025-10-14T14:49:43.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "17a03794-63f4-4051-b7db-a0283a5a2118",
     "name": "ANWB"

@@ -2,10 +2,15 @@
   "id": "a651e40a-ea8c-4ed0-82e9-e47a34b48d64",
   "name": "Samen Vooruit",
   "public_id": "s0bhm2",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T09:49:26.000Z",
   "date_updated": "2025-10-23T09:49:31.000Z",
   "versions_count": 4,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "a379b063-2557-411c-8bed-1311da43bf5c",
     "name": "GroenLinks-PvdA"

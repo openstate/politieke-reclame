@@ -2,10 +2,15 @@
   "id": "b25d4600-9711-4e36-bd4c-c3e3eae19e8c",
   "name": "Strijdend voor Ridderkerk",
   "public_id": "mixkpf",
-  "theme": "Gemeenteraadsverkiezingen 2026",
   "date_created": "2025-10-30T09:18:06.000Z",
   "date_updated": "2025-10-30T09:20:07.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 10,
+    "label": "Gemeenteraadsverkiezingen 2026",
+    "status": "published",
+    "date": "2026-03-18T12:00:00"
+  },
   "organization_created": {
     "id": "fd10c2d7-2468-4708-ac7a-699511a7eb24",
     "name": "Partij 18PLUS"

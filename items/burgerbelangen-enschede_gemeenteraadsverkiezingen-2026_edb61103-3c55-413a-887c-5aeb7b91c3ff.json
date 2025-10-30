@@ -2,10 +2,15 @@
   "id": "edb61103-3c55-413a-887c-5aeb7b91c3ff",
   "name": "Gemeenteraadsverkiezingen 2026",
   "public_id": "3gpfjf",
-  "theme": "Gemeenteraadsverkiezingen 2026",
   "date_created": "2025-10-13T09:40:02.000Z",
   "date_updated": "2025-10-13T09:40:28.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 10,
+    "label": "Gemeenteraadsverkiezingen 2026",
+    "status": "published",
+    "date": "2026-03-18T12:00:00"
+  },
   "organization_created": {
     "id": "ae09d30b-fc88-40c0-aec0-044d1c18a3dc",
     "name": "Burgerbelangen Enschede"

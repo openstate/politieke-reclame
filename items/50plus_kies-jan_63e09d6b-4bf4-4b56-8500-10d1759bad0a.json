@@ -2,10 +2,15 @@
   "id": "63e09d6b-4bf4-4b56-8500-10d1759bad0a",
   "name": "Kies Jan!",
   "public_id": "l4v884",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T10:03:28.000Z",
   "date_updated": "2025-10-23T10:03:52.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "71236f62-90a2-4908-8eae-a3d4ae255c39",
     "name": "50PLUS"

@@ -2,10 +2,15 @@
   "id": "1c94461f-1f66-421b-8a5a-79141f87442a",
   "name": "Nederland Wil Wonen",
   "public_id": "md50e4",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T14:26:58.000Z",
   "date_updated": "2025-10-23T14:27:24.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "731357ee-9bfb-4f99-9ba1-904a86a7ce6f",
     "name": "Voor Ons Nederland"

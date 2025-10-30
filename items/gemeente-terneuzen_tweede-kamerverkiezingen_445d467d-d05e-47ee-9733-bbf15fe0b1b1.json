@@ -2,10 +2,15 @@
   "id": "445d467d-d05e-47ee-9733-bbf15fe0b1b1",
   "name": "Tweede Kamerverkiezingen",
   "public_id": "umdodh",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-13T13:16:33.000Z",
   "date_updated": "2025-10-13T13:16:50.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "eb299791-601f-45be-a48c-2307fd3406c4",
     "name": "Gemeente Terneuzen"

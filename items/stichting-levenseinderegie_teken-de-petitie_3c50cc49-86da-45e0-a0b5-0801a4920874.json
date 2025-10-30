@@ -2,10 +2,15 @@
   "id": "3c50cc49-86da-45e0-a0b5-0801a4920874",
   "name": "Teken de petitie",
   "public_id": "9zvy9a",
-  "theme": "Algemeen - beleid en maatschappelijke thema\u2019s",
   "date_created": "2025-10-23T14:31:59.000Z",
   "date_updated": "2025-10-23T14:32:28.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 11,
+    "label": "Algemeen - beleid en maatschappelijke thema\u2019s",
+    "status": "published",
+    "date": "2025-01-01T12:00:00"
+  },
   "organization_created": {
     "id": "fd004e5a-702c-4d23-ac8d-661924db3720",
     "name": "Stichting Levenseinderegie"

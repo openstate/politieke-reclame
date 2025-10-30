@@ -2,10 +2,15 @@
   "id": "e5fa7ef6-6480-4cdc-9dc7-d47b20ed419a",
   "name": "Stem Supersociaal. Stem SP.",
   "public_id": "bpd7pq",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-27T10:41:06.000Z",
   "date_updated": "2025-10-27T10:42:48.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "8389c8f1-1068-41a9-9038-2b186ac872e6",
     "name": "Socialistische Partij"

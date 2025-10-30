@@ -2,10 +2,15 @@
   "id": "583e6dc8-8bc6-42bc-ac0f-4661863a5688",
   "name": "Kies voor HOI Werkt",
   "public_id": "s94rq2",
-  "theme": "Gemeenteraadsverkiezingen 2026",
   "date_created": "2025-10-27T13:55:11.000Z",
   "date_updated": "2025-10-27T13:55:31.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 10,
+    "label": "Gemeenteraadsverkiezingen 2026",
+    "status": "published",
+    "date": "2026-03-18T12:00:00"
+  },
   "organization_created": {
     "id": "942b6d3f-db44-42f8-9999-d446ecee62c9",
     "name": "HOI Werkt"

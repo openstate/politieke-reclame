@@ -2,10 +2,15 @@
   "id": "e072e0b7-a482-49bf-a593-c5f7437c2964",
   "name": "Algemene informatie",
   "public_id": "k8ndi3",
-  "theme": "Algemeen - beleid en maatschappelijke thema\u2019s",
   "date_created": "2025-10-19T11:02:59.000Z",
   "date_updated": "2025-10-19T11:03:37.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 11,
+    "label": "Algemeen - beleid en maatschappelijke thema\u2019s",
+    "status": "published",
+    "date": "2025-01-01T12:00:00"
+  },
   "organization_created": {
     "id": "6cfb0853-9999-402b-8910-ae83c3ee2d28",
     "name": "Leefbaar Rotterdam"

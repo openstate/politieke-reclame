@@ -2,10 +2,15 @@
   "id": "246232ec-1280-4ade-854b-706060c77762",
   "name": "Den Haag, Wordt het gebakken lucht of zoete broodjes",
   "public_id": "rxk515",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-24T08:41:13.000Z",
   "date_updated": "2025-10-24T08:41:34.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "7dc082db-9d74-4dea-a061-ccedcb1f5804",
     "name": "NBOV"

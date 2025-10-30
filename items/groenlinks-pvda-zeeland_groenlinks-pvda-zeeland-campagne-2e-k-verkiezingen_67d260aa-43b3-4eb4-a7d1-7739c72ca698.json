@@ -2,10 +2,15 @@
   "id": "67d260aa-43b3-4eb4-a7d1-7739c72ca698",
   "name": "GroenLinks/PvdA Zeeland campagne 2e K verkiezingen",
   "public_id": "0ao9fn",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-11T11:05:40.000Z",
   "date_updated": "2025-10-11T11:07:34.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "9acb7d77-8e31-4ae9-a1af-74649396ae4e",
     "name": "GroenLinks-PvdA Zeeland"

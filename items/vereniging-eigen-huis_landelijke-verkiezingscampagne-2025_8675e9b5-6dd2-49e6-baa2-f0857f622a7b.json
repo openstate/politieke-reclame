@@ -2,10 +2,15 @@
   "id": "8675e9b5-6dd2-49e6-baa2-f0857f622a7b",
   "name": "Landelijke verkiezingscampagne 2025",
   "public_id": "iukwlm",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T13:32:50.000Z",
   "date_updated": "2025-10-23T13:37:37.000Z",
   "versions_count": 4,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "1973b669-d746-42b9-8963-82e0129909bd",
     "name": "Vereniging Eigen Huis"

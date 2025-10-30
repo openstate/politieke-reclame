@@ -2,10 +2,15 @@
   "id": "da81865d-115c-4311-8f96-8c3cefd3ca82",
   "name": "Partij voor de Dieren. Natuurlijk.",
   "public_id": "39x88p",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-24T09:32:37.000Z",
   "date_updated": "2025-10-24T09:36:02.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "c3f7678e-2bcd-4d44-bb28-2718d76d0c88",
     "name": "Partij voor de Dieren"

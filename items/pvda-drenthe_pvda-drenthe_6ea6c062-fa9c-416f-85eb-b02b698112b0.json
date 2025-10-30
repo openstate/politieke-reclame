@@ -2,10 +2,15 @@
   "id": "6ea6c062-fa9c-416f-85eb-b02b698112b0",
   "name": "PvdA Drenthe",
   "public_id": "190k92",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-21T13:54:24.000Z",
   "date_updated": "2025-10-21T13:57:51.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "ea313cd9-edf4-448f-a1e3-a677fec977ba",
     "name": "PVDA Drenthe"

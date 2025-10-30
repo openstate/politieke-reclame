@@ -2,10 +2,15 @@
   "id": "aa3cd77d-5a82-4cb5-97e8-6ba03d000295",
   "name": "Stem SGP",
   "public_id": "etziyn",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-13T13:59:50.000Z",
   "date_updated": "2025-10-13T14:00:01.000Z",
   "versions_count": 5,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "88f65067-16c6-424b-bb42-89d40f15cc0e",
     "name": "SGP"

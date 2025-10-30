@@ -2,10 +2,15 @@
   "id": "bc74d07a-b7e6-41e0-9b27-554e28df5388",
   "name": "Week van het Leven 2025",
   "public_id": "sz25hj",
-  "theme": "Algemeen - beleid en maatschappelijke thema\u2019s",
   "date_created": "2025-10-13T17:55:13.000Z",
   "date_updated": "2025-10-13T17:55:56.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 11,
+    "label": "Algemeen - beleid en maatschappelijke thema\u2019s",
+    "status": "published",
+    "date": "2025-01-01T12:00:00"
+  },
   "organization_created": {
     "id": "36a974be-3fac-4ca4-8250-b4b9e35715e8",
     "name": "Platform Zorg voor Leven"

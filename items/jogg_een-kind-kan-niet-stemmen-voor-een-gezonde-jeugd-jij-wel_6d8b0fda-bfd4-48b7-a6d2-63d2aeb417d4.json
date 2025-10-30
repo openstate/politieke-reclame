@@ -2,10 +2,15 @@
   "id": "6d8b0fda-bfd4-48b7-a6d2-63d2aeb417d4",
   "name": "EEN KIND kan niet stemmen voor een gezonde jeugd. Jij wel.",
   "public_id": "gj0y8v",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T14:25:31.000Z",
   "date_updated": "2025-10-23T14:25:58.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "f959bfce-1c4d-4977-8d4b-6bc5d51a206c",
     "name": "JOGG"

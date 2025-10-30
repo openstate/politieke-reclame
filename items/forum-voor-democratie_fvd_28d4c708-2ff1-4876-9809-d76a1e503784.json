@@ -2,10 +2,15 @@
   "id": "28d4c708-2ff1-4876-9809-d76a1e503784",
   "name": "FVD",
   "public_id": "4uweyd",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-27T11:59:49.000Z",
   "date_updated": "2025-10-27T12:02:16.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "81680b4a-54b6-4844-952f-e4fc1341ca06",
     "name": "Forum voor Democratie"

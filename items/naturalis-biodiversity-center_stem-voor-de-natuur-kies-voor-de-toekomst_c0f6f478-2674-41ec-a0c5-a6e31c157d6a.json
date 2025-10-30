@@ -2,10 +2,15 @@
   "id": "c0f6f478-2674-41ec-a0c5-a6e31c157d6a",
   "name": "Stem voor de natuur, kies voor de toekomst",
   "public_id": "gcthff",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-16T09:56:56.000Z",
   "date_updated": "2025-10-16T09:57:00.000Z",
   "versions_count": 3,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "391ed187-5b25-4983-a1ac-c86395dc97c8",
     "name": "Naturalis Biodiversity Center"

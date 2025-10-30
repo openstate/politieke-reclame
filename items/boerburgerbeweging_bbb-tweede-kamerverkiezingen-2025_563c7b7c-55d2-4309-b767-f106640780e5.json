@@ -2,10 +2,15 @@
   "id": "563c7b7c-55d2-4309-b767-f106640780e5",
   "name": "BBB Tweede Kamerverkiezingen 2025",
   "public_id": "dci27k",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-09T14:02:52.000Z",
   "date_updated": "2025-10-09T14:03:21.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "9432135d-08f7-42b4-a283-49d7481e7e97",
     "name": "BoerBurgerBeweging"

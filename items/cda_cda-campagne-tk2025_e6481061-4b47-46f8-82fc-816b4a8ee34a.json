@@ -2,10 +2,15 @@
   "id": "e6481061-4b47-46f8-82fc-816b4a8ee34a",
   "name": "CDA campagne TK2025",
   "public_id": "3w88x0",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-21T13:19:20.000Z",
   "date_updated": "2025-10-21T13:19:30.000Z",
   "versions_count": 3,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "b9de4b1d-8f1a-49f9-aa13-f1c20436414a",
     "name": "CDA"

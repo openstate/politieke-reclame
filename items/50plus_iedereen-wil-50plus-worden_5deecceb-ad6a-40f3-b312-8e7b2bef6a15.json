@@ -2,10 +2,15 @@
   "id": "5deecceb-ad6a-40f3-b312-8e7b2bef6a15",
   "name": "Iedereen wil 50PLUS worden",
   "public_id": "pyl9pz",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T10:04:40.000Z",
   "date_updated": "2025-10-23T10:07:33.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "71236f62-90a2-4908-8eae-a3d4ae255c39",
     "name": "50PLUS"

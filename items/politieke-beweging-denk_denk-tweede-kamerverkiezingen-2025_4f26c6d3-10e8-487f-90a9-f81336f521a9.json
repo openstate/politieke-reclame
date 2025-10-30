@@ -2,10 +2,15 @@
   "id": "4f26c6d3-10e8-487f-90a9-f81336f521a9",
   "name": "DENK Tweede Kamerverkiezingen 2025",
   "public_id": "0yzcy4",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-15T14:45:25.000Z",
   "date_updated": "2025-10-16T10:59:11.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "0e122514-a69e-4879-93f5-cb7997bdbcca",
     "name": "Politieke beweging DENK"

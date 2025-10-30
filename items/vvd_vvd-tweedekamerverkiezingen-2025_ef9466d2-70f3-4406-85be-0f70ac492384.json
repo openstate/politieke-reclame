@@ -2,10 +2,15 @@
   "id": "ef9466d2-70f3-4406-85be-0f70ac492384",
   "name": "VVD Tweedekamerverkiezingen 2025",
   "public_id": "y8qvfb",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-22T09:15:38.000Z",
   "date_updated": "2025-10-22T09:16:47.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "6681ead1-5716-41eb-b1a9-14ab2d9da671",
     "name": "VVD"

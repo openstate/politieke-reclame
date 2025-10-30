@@ -2,10 +2,15 @@
   "id": "9c9be0f4-b5ba-43d0-b34d-4ea3d75b9f2d",
   "name": "Kandidaat Mohammed Mohandis",
   "public_id": "fb3dt0",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-21T11:59:04.000Z",
   "date_updated": "2025-10-21T12:01:45.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "a379b063-2557-411c-8bed-1311da43bf5c",
     "name": "GroenLinks-PvdA"

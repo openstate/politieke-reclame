@@ -2,10 +2,15 @@
   "id": "5527becc-56a6-490b-a95d-87e7ad511aed",
   "name": "STEM CHRISTELIJK VOOR NEDERLAND",
   "public_id": "kox63i",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-10T13:23:36.000Z",
   "date_updated": "2025-10-10T13:38:49.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "88f65067-16c6-424b-bb42-89d40f15cc0e",
     "name": "SGP"

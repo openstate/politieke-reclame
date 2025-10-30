@@ -2,10 +2,15 @@
   "id": "4ccd2396-31ad-484d-a014-1283fa08197b",
   "name": "Campagne gemeenteraadsverkiezingen GroenLinks/PvdA Opsterland",
   "public_id": "14w4sv",
-  "theme": "Gemeenteraadsverkiezingen 2026",
   "date_created": "2025-10-30T10:19:07.000Z",
   "date_updated": "2025-10-30T10:20:39.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 10,
+    "label": "Gemeenteraadsverkiezingen 2026",
+    "status": "published",
+    "date": "2026-03-18T12:00:00"
+  },
   "organization_created": {
     "id": "cf4ac73f-e09a-46ee-a5e1-2149c0b5e0ca",
     "name": "GroenLinks/PvdA Opsterland"

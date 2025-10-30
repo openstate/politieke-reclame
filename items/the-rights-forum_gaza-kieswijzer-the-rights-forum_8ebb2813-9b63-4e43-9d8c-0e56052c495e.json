@@ -2,10 +2,15 @@
   "id": "8ebb2813-9b63-4e43-9d8c-0e56052c495e",
   "name": "Gaza Kieswijzer The Rights Forum",
   "public_id": "6rjmu9",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-15T07:23:03.000Z",
   "date_updated": "2025-10-15T07:25:03.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "6133f158-13d5-4d7c-a986-4efc624c960b",
     "name": "The Rights Forum"

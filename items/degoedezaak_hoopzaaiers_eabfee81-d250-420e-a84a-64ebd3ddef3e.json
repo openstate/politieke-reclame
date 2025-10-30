@@ -2,10 +2,15 @@
   "id": "eabfee81-d250-420e-a84a-64ebd3ddef3e",
   "name": "Hoopzaaiers",
   "public_id": "zhv4xr",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-15T13:17:03.000Z",
   "date_updated": "2025-10-16T11:36:59.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "70046eee-5e12-4370-a341-29a2d7e25f40",
     "name": "DeGoedeZaak"

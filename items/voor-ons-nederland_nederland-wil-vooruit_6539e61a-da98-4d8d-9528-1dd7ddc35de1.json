@@ -2,10 +2,15 @@
   "id": "6539e61a-da98-4d8d-9528-1dd7ddc35de1",
   "name": "Nederland Wil Vooruit",
   "public_id": "9utmvq",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T14:35:55.000Z",
   "date_updated": "2025-10-23T14:36:20.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "731357ee-9bfb-4f99-9ba1-904a86a7ce6f",
     "name": "Voor Ons Nederland"

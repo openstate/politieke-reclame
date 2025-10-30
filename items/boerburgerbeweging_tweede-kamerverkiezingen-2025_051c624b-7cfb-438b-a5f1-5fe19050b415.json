@@ -2,10 +2,15 @@
   "id": "051c624b-7cfb-438b-a5f1-5fe19050b415",
   "name": "Tweede Kamerverkiezingen 2025",
   "public_id": "2sess7",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-27T09:35:40.000Z",
   "date_updated": "2025-10-27T09:35:46.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "9432135d-08f7-42b4-a283-49d7481e7e97",
     "name": "BoerBurgerBeweging"

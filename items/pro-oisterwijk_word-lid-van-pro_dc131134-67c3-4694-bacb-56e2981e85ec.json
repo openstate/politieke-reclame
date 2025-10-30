@@ -2,10 +2,15 @@
   "id": "dc131134-67c3-4694-bacb-56e2981e85ec",
   "name": "Word lid van PRO",
   "public_id": "xgvzhn",
-  "theme": "Gemeenteraadsverkiezingen 2026",
   "date_created": "2025-10-22T11:17:29.000Z",
   "date_updated": "2025-10-22T11:21:18.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 10,
+    "label": "Gemeenteraadsverkiezingen 2026",
+    "status": "published",
+    "date": "2026-03-18T12:00:00"
+  },
   "organization_created": {
     "id": "55666098-ced3-4715-a3d2-5a9ceb03465e",
     "name": "PRO Oisterwijk"

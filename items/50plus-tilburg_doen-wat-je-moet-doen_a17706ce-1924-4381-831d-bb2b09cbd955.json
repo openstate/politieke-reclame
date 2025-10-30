@@ -2,10 +2,15 @@
   "id": "a17706ce-1924-4381-831d-bb2b09cbd955",
   "name": "Doen wat je moet doen",
   "public_id": "kdldpv",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T09:57:58.000Z",
   "date_updated": "2025-10-23T09:58:14.000Z",
   "versions_count": 2,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "8f24e2f0-25ce-43cb-a972-b3d520122217",
     "name": "50PLUS Tilburg"

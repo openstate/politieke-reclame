@@ -2,10 +2,15 @@
   "id": "48fe8215-75e9-4ed2-bb59-ad863d34fdc4",
   "name": "Tweede Kamerverkiezingen 2025",
   "public_id": "ipdl1g",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-15T20:04:51.000Z",
   "date_updated": "2025-10-15T20:14:12.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "07674251-f5af-4b08-9995-fa53a923b395",
     "name": "SGP Krimpen aan den IJssel"

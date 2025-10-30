@@ -2,10 +2,15 @@
   "id": "a3705e45-f012-4df6-9bb1-b4c82f82d3b0",
   "name": "Pensioenen AOW en zorg",
   "public_id": "jl5vot",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T08:21:38.000Z",
   "date_updated": "2025-10-23T08:23:51.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "9432135d-08f7-42b4-a283-49d7481e7e97",
     "name": "BoerBurgerBeweging"

@@ -2,10 +2,15 @@
   "id": "d338b4a8-fdcc-4a0d-8279-8ca1fa8c84e3",
   "name": "Gemeenteraadsverkiezingen 2026",
   "public_id": "tfy1ew",
-  "theme": "Gemeenteraadsverkiezingen 2026",
   "date_created": "2025-10-15T18:59:15.000Z",
   "date_updated": "2025-10-15T19:02:40.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 10,
+    "label": "Gemeenteraadsverkiezingen 2026",
+    "status": "published",
+    "date": "2026-03-18T12:00:00"
+  },
   "organization_created": {
     "id": "31077b11-6f7b-4d5d-8026-82400e90836c",
     "name": "OoststellingwerfsBelang"

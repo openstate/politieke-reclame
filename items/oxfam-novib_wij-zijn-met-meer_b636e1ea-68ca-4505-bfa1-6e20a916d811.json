@@ -2,10 +2,15 @@
   "id": "b636e1ea-68ca-4505-bfa1-6e20a916d811",
   "name": "Wij Zijn Met Meer",
   "public_id": "4aordo",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-15T09:04:09.000Z",
   "date_updated": "2025-10-15T11:27:00.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "41f1e5c9-5ab5-4aa3-9e1d-68a8c1e408a8",
     "name": "Oxfam Novib"

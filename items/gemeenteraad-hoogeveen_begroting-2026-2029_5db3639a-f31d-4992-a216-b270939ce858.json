@@ -2,10 +2,15 @@
   "id": "5db3639a-f31d-4992-a216-b270939ce858",
   "name": "Begroting 2026-2029",
   "public_id": "ax69a9",
-  "theme": "Algemeen - beleid en maatschappelijke thema\u2019s",
   "date_created": "2025-10-27T13:44:50.000Z",
   "date_updated": "2025-10-27T13:45:31.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 11,
+    "label": "Algemeen - beleid en maatschappelijke thema\u2019s",
+    "status": "published",
+    "date": "2025-01-01T12:00:00"
+  },
   "organization_created": {
     "id": "ae5f6ff3-6f46-4a3c-b89d-7dae1928b771",
     "name": "Gemeenteraad Hoogeveen"

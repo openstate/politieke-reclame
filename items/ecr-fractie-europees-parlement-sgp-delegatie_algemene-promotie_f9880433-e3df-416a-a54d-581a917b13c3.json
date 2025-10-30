@@ -2,10 +2,15 @@
   "id": "f9880433-e3df-416a-a54d-581a917b13c3",
   "name": "Algemene promotie",
   "public_id": "1salsx",
-  "theme": "Algemeen - beleid en maatschappelijke thema\u2019s",
   "date_created": "2025-10-14T08:46:49.000Z",
   "date_updated": "2025-10-14T08:48:56.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 11,
+    "label": "Algemeen - beleid en maatschappelijke thema\u2019s",
+    "status": "published",
+    "date": "2025-01-01T12:00:00"
+  },
   "organization_created": {
     "id": "4fa77b8c-07ca-430d-9253-eabd000254d6",
     "name": "ECR Fractie Europees Parlement - SGP delegatie"

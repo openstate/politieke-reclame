@@ -2,10 +2,15 @@
   "id": "ca4a6e6e-7289-4414-9989-63edfa55d8eb",
   "name": "Van Dam, Van Dam en Verkade",
   "public_id": "z3tmd4",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-23T05:11:38.000Z",
   "date_updated": "2025-10-23T05:14:16.000Z",
   "versions_count": 3,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "242802ae-56fe-4e38-ba4b-cdc03116c192",
     "name": "Erdee Media Groep"

@@ -2,10 +2,15 @@
   "id": "628e379b-6a99-43ac-9eab-4abc96a078e7",
   "name": "Stem SP",
   "public_id": "cduey1",
-  "theme": "Tweede Kamerverkiezingen 2025",
   "date_created": "2025-10-27T14:13:26.000Z",
   "date_updated": "2025-10-27T14:14:59.000Z",
   "versions_count": 1,
+  "theme_link": {
+    "id": 6,
+    "label": "Tweede Kamerverkiezingen 2025",
+    "status": "published",
+    "date": "2025-10-29T12:00:00"
+  },
   "organization_created": {
     "id": "bb54f285-e184-45b1-b332-d16b35594b18",
     "name": "SP Weert"
