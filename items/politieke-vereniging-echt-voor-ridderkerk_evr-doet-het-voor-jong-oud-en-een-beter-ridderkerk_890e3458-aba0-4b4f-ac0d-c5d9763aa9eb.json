@@ -3,7 +3,7 @@
   "name": "EvR doet het! Voor jong, oud en een beter Ridderkerk",
   "public_id": "ph2h1l",
   "date_created": "2026-02-17T15:53:11.000Z",
-  "date_updated": "2026-02-18T10:48:22.000Z",
+  "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,5 +51,5 @@
   "methode_waardebepaling_voordelen_natura": "",
   "ingezette_media": "TV,Radio en podcast,Buitenreclame,Online display,Huis-aan-huis-bladen en nieuwsbladen",
   "reclame_boodschap": "EvR doet het!\nVoor jong, oud en een beter Ridderkerk!",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": true
 }

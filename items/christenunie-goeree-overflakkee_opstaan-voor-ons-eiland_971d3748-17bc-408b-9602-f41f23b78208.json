@@ -3,7 +3,7 @@
   "name": "Opstaan voor ons eiland!",
   "public_id": "m2ye4h",
   "date_created": "2026-02-17T15:31:27.000Z",
-  "date_updated": "2026-02-17T15:32:31.000Z",
+  "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,5 +51,5 @@
   "methode_waardebepaling_voordelen_natura": "Opnamen filmpjes, maken foto\u2019s. Uitzenden kort filmpje en geluidsopname op regionale tv en radio.\nAdvertentie in lokale kranten. ",
   "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen,Radio en podcast,TV",
   "reclame_boodschap": "Opstaan voor ons eiland.\n\nStem woensdag 18 maart lijst 5 ChristenUnie Goeree-Overflakkee ",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": true
 }

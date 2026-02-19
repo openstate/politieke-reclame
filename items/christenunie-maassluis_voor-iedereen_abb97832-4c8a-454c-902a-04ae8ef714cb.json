@@ -3,7 +3,7 @@
   "name": "Voor iedereen!",
   "public_id": "g11t9q",
   "date_created": "2026-02-18T11:52:50.000Z",
-  "date_updated": "2026-02-18T11:54:55.000Z",
+  "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,5 +51,5 @@
   "methode_waardebepaling_voordelen_natura": "\u20ac 2266 is het bedrag van de rekening van Centercom. Verder zijn er kosten voor het drukken van flyers en het plaatsen van advertenties in het Maassluise nieuwsblad.",
   "ingezette_media": "Buitenreclame,Huis-aan-huis-bladen en nieuwsbladen",
   "reclame_boodschap": "Voor iedereen!",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": true
 }

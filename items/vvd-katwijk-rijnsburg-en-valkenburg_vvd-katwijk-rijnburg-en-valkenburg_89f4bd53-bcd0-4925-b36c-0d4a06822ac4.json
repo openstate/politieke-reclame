@@ -3,7 +3,7 @@
   "name": "VVD Katwijk, Rijnburg en Valkenburg",
   "public_id": "mko2ir",
   "date_created": "2026-02-17T11:13:22.000Z",
-  "date_updated": "2026-02-17T11:17:56.000Z",
+  "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,5 +51,5 @@
   "methode_waardebepaling_voordelen_natura": "Nvt",
   "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen",
   "reclame_boodschap": "Katwijk verdient beter!",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": true
 }

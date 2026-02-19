@@ -3,7 +3,7 @@
   "name": "GroenLinks-PvdA Meppel Gemeenteraadsverkiezingen 2026",
   "public_id": "idci7b",
   "date_created": "2026-02-17T09:11:41.000Z",
-  "date_updated": "2026-02-17T09:12:31.000Z",
+  "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,5 +51,5 @@
   "methode_waardebepaling_voordelen_natura": "Vrijwilligers hebben het opgemaakt, maar dit is ongeveer de prijs die ze normaal rekenenen voor zoiets. ",
   "ingezette_media": "Dagbladen",
   "reclame_boodschap": "Ga je mee afvalruimen met Meppel Schoon in 1 Dag?",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": true
 }

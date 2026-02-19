@@ -3,7 +3,7 @@
   "name": "Toegankelijk stemmen",
   "public_id": "zrvn7e",
   "date_created": "2026-02-17T11:42:38.000Z",
-  "date_updated": "2026-02-17T11:43:11.000Z",
+  "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,5 +51,5 @@
   "methode_waardebepaling_voordelen_natura": "",
   "ingezette_media": "Dagbladen",
   "reclame_boodschap": "Ook onze stem telt",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": true
 }

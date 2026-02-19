@@ -3,7 +3,7 @@
   "name": "Bouwen aan onze toekomst",
   "public_id": "cvr27h",
   "date_created": "2026-02-17T15:07:20.000Z",
-  "date_updated": "2026-02-17T15:07:36.000Z",
+  "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,5 +51,5 @@
   "methode_waardebepaling_voordelen_natura": "",
   "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen,Buitenreclame",
   "reclame_boodschap": "Politieke reclame voor de gemeenteraadsverkiezingen. ",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": true
 }

@@ -3,7 +3,7 @@
   "name": "GroenLinks-PvdA GR  2026 Hillegom",
   "public_id": "vow0xa",
   "date_created": "2026-02-19T11:07:20.000Z",
-  "date_updated": "2026-02-19T11:07:27.000Z",
+  "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 2,
   "theme_link": {
     "id": 10,
@@ -51,5 +51,5 @@
   "methode_waardebepaling_voordelen_natura": "",
   "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen",
   "reclame_boodschap": "Het bij de kiezers onder de aandacht brengen van GroenLinks-PvdA",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": true
 }

@@ -3,7 +3,7 @@
   "name": "Gemeenteraadsverkiezingen Progressieve Kombinatie Bergen ( PK Bergen ) 2026",
   "public_id": "1ws0na",
   "date_created": "2026-02-18T11:00:10.000Z",
-  "date_updated": "2026-02-18T11:00:48.000Z",
+  "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,5 +51,5 @@
   "methode_waardebepaling_voordelen_natura": "",
   "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen,Radio en podcast,Buitenreclame,Online display",
   "reclame_boodschap": "Werving voor gemeenteraadsverkiezingen 2026",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": true
 }

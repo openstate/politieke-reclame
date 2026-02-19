@@ -1,8 +1,8 @@
 {
-  "id": "87204921-4f1d-4301-9001-9d740f969f34",
-  "name": "Stem SGP Wierden",
-  "public_id": "5vyy7l",
-  "date_created": "2026-02-19T08:08:55.000Z",
+  "id": "c80e06bc-9b25-482c-82aa-4f668752e329",
+  "name": "Gemeenteraadsverkiezingen 2026 GroenLinks/PvdA Diemen",
+  "public_id": "37f6eb",
+  "date_created": "2026-02-19T12:30:25.000Z",
   "date_updated": "2026-02-19T14:07:37.000Z",
   "versions_count": 1,
   "theme_link": {
@@ -12,17 +12,17 @@
     "date": "2026-03-18T12:00:00"
   },
   "organization_created": {
-    "id": "382e56ea-9588-4872-bc02-347788cff665",
-    "name": "SGP Wierden"
+    "id": "dd5a9c77-42b2-41b8-9909-ee51f4ef4ee7",
+    "name": "GroenLinks/PvdA Diemen"
   },
   "versions": 1,
-  "date_published": "2026-02-19T08:15:19",
-  "opdrachtgever_naam_organisatie": "SGP Wierden",
-  "opdrachtgever_straat_huisnummer": "Blokdijk 4",
-  "opdrachtgever_plaats": "7467 PG Notter",
+  "date_published": "2026-02-19T13:13:45",
+  "opdrachtgever_naam_organisatie": "GroenLinks/PvdA Diemen",
+  "opdrachtgever_straat_huisnummer": "",
+  "opdrachtgever_plaats": "Diemen",
   "opdrachtgever_kvk_nummer": "",
-  "opdrachtgever_contactpersoon": "D. Rijnders",
-  "opdrachtgever_mailadres": "drijnders.sgpwierden@gmail.com",
+  "opdrachtgever_contactpersoon": "J. de Groot",
+  "opdrachtgever_mailadres": "joris.pvdadiemen@gmail.com",
   "opdrachtgever_registratienummer_kiesraad": "",
   "gezaghebbende_naam_organisatie": "",
   "gezaghebbende_straat_huisnummer": "",
@@ -35,10 +35,10 @@
   "betalende_kvk_nummer": "",
   "betalende_contactpersoon": "",
   "betalende_mailadres": "",
-  "campagne_periode_startdatum": "2026-01-01",
-  "campagne_periode_einddatum": "2026-12-31",
-  "betaalde_media_waarde_euro": "1000",
-  "totale_waarde_campagne_euro": "2000",
+  "campagne_periode_startdatum": "2026-03-01",
+  "campagne_periode_einddatum": "2026-03-18",
+  "betaalde_media_waarde_euro": "2223",
+  "totale_waarde_campagne_euro": "4000",
   "relevante_links": "",
   "gebruikte_targeting_techniek": "geen",
   "oorsprong_ontvangen_bedragen": "Particulier geld van binnen de EU",
@@ -49,7 +49,7 @@
   "akkoord_identiteit_opdrachtgever": true,
   "akkoord_politieke_reclamedienst": true,
   "methode_waardebepaling_voordelen_natura": "",
-  "ingezette_media": "Dagbladen,Huis-aan-huis-bladen en nieuwsbladen,Magazines,Radio en podcast,Buitenreclame,Online display",
-  "reclame_boodschap": "Stem SGP Wierden!",
+  "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen",
+  "reclame_boodschap": "Stemmen op GroenLinks/PvdA in Diemen",
   "akkoord_geen_targeting": true
 }
