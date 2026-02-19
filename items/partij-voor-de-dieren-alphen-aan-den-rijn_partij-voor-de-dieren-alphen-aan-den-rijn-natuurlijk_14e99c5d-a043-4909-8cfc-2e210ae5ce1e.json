@@ -3,7 +3,7 @@
   "name": "Partij voor de Dieren. Alphen aan den Rijn. Natuurlijk.",
   "public_id": "0r5ymk",
   "date_created": "2026-02-18T12:15:58.000Z",
-  "date_updated": "2026-02-18T12:26:23.000Z",
+  "date_updated": "2026-02-19T17:38:25.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,6 +51,6 @@
   "methode_waardebepaling_voordelen_natura": "",
   "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen,Buitenreclame",
   "reclame_boodschap": "Partij voor de Dieren. De groenste partij in gemeente Alphen aan den Rijn. Natuurlijk.",
-  "akkoord_geen_targeting": false,
+  "akkoord_geen_targeting": true,
   "campagne_uitgevers": null
 }

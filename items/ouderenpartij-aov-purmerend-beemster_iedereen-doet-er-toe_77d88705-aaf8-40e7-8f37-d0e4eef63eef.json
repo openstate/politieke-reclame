@@ -3,7 +3,7 @@
   "name": "Iedereen doet er toe",
   "public_id": "h9x9fh",
   "date_created": "2026-02-18T15:57:06.000Z",
-  "date_updated": "2026-02-18T16:27:02.000Z",
+  "date_updated": "2026-02-19T17:38:25.000Z",
   "versions_count": 1,
   "theme_link": {
     "id": 10,
@@ -51,6 +51,6 @@
   "methode_waardebepaling_voordelen_natura": "N.V.T.",
   "ingezette_media": "Dagbladen,Huis-aan-huis-bladen en nieuwsbladen,Buitenreclame",
   "reclame_boodschap": "Iedereen doet er toe",
-  "akkoord_geen_targeting": false,
+  "akkoord_geen_targeting": true,
   "campagne_uitgevers": null
 }
