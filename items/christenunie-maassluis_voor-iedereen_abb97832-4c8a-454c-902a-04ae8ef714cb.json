@@ -50,5 +50,6 @@
   "akkoord_politieke_reclamedienst": true,
   "methode_waardebepaling_voordelen_natura": "\u20ac 2266 is het bedrag van de rekening van Centercom. Verder zijn er kosten voor het drukken van flyers en het plaatsen van advertenties in het Maassluise nieuwsblad.",
   "ingezette_media": "Buitenreclame,Huis-aan-huis-bladen en nieuwsbladen",
-  "reclame_boodschap": "Voor iedereen!"
+  "reclame_boodschap": "Voor iedereen!",
+  "akkoord_geen_targeting": false
 }

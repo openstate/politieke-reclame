@@ -50,5 +50,6 @@
   "akkoord_politieke_reclamedienst": true,
   "methode_waardebepaling_voordelen_natura": "",
   "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen",
-  "reclame_boodschap": "Recht uit het hart!\nStem CDA"
+  "reclame_boodschap": "Recht uit het hart!\nStem CDA",
+  "akkoord_geen_targeting": false
 }

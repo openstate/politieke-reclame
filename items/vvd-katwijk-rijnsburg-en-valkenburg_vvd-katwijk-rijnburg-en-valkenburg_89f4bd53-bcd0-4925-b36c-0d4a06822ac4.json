@@ -50,5 +50,6 @@
   "akkoord_politieke_reclamedienst": true,
   "methode_waardebepaling_voordelen_natura": "Nvt",
   "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen",
-  "reclame_boodschap": "Katwijk verdient beter!"
+  "reclame_boodschap": "Katwijk verdient beter!",
+  "akkoord_geen_targeting": false
 }

@@ -50,5 +50,6 @@
   "akkoord_politieke_reclamedienst": true,
   "methode_waardebepaling_voordelen_natura": "",
   "ingezette_media": "TV,Huis-aan-huis-bladen en nieuwsbladen,Buitenreclame",
-  "reclame_boodschap": "Opstaan voor het goede"
+  "reclame_boodschap": "Opstaan voor het goede",
+  "akkoord_geen_targeting": false
 }

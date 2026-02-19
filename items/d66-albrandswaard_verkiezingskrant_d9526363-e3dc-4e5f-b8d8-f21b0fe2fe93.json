@@ -50,5 +50,6 @@
   "akkoord_politieke_reclamedienst": true,
   "methode_waardebepaling_voordelen_natura": "Bedrag zoals opgegeven door de gemeente Albrandswaard. ",
   "ingezette_media": "Huis-aan-huis-bladen en nieuwsbladen",
-  "reclame_boodschap": "Informeren"
+  "reclame_boodschap": "Informeren",
+  "akkoord_geen_targeting": false
 }
