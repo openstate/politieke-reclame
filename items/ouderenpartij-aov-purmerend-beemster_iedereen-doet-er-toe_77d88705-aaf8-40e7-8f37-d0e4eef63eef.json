@@ -51,5 +51,6 @@
   "methode_waardebepaling_voordelen_natura": "N.V.T.",
   "ingezette_media": "Dagbladen,Huis-aan-huis-bladen en nieuwsbladen,Buitenreclame",
   "reclame_boodschap": "Iedereen doet er toe",
-  "akkoord_geen_targeting": false
+  "akkoord_geen_targeting": false,
+  "campagne_uitgevers": null
 }
